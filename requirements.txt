@@ -1,4 +1,4 @@
-socket
+python-socketio
 threading
 base64
 http
